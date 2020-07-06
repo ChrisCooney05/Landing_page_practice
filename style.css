@@ -13,15 +13,26 @@ h1 {
 }
 
 .btn {
-  transition: all 0.5s;
-  font-weight: 500;
+  font-weight: 700;
   border-radius: 300px;
 }
 
 .btn:hover {
-  transform: scale(1.1);
+  transition: all 0.2s;
+  border-right-width: 4px;
+  border-left-width: 4px;
+  background-color: rgb(237, 122, 28);
+  border-color: rgb(237, 122, 28);
 }
 
 .btn-cnt {
   padding: 1rem 2rem;
+  background-color: rgb(237, 122, 28);
+  border-color: rgb(237, 122, 28);
+}
+
+hr {
+  border-color: rgb(237, 122, 28);
+  border-width: 3px;
+  max-width: 100px;
 }

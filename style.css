@@ -6,4 +6,9 @@ html {
   background: url("header.jpg") no-repeat center center fixed;
   background-size: cover;
 }
+
 /*background: url("header.jpg") no-repeat center center fixed ensures that the image is always centered and responds to website size*/
+h1 {
+  font-size: 3rem;
+  color: rgb(190, 190, 190);
+}

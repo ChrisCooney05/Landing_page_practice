@@ -12,6 +12,16 @@ h1 {
   color: rgb(190, 190, 190);
 }
 
+.btn {
+  transition: all 0.5s;
+  font-weight: 500;
+  border-radius: 300px;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
+
 .btn-cnt {
   padding: 1rem 2rem;
 }

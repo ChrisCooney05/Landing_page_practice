@@ -18,9 +18,7 @@ h1 {
 }
 
 .btn:hover {
-  transition: all 0.5s;
-  border-right-width: 8px;
-  border-left-width: 8px;
+  border-width: 2px;
   background-color: rgb(237, 122, 28);
   border-color: rgb(237, 122, 28);
 }

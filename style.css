@@ -36,3 +36,7 @@ hr {
   border-width: 3px;
   max-width: 100px;
 }
+
+.buffer {
+  height: 75px;
+}

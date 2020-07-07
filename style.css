@@ -14,13 +14,13 @@ h1 {
 
 .btn {
   font-weight: 700;
-  border-radius: 300px;
+  border-radius: 100px;
 }
 
 .btn:hover {
-  transition: all 0.2s;
-  border-right-width: 4px;
-  border-left-width: 4px;
+  transition: all 0.5s;
+  border-right-width: 8px;
+  border-left-width: 8px;
   background-color: rgb(237, 122, 28);
   border-color: rgb(237, 122, 28);
 }
